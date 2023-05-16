@@ -1,0 +1,15 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+.button {
+  background-color: brown;
+  border-width: 4;
+  border-radius: 400px;
+  margin-top: 20px;
+  margin-left: 20px;
+  border-color: rgba(0, 0, 0, 0.1);
+  height: 40px;
+  width: 80px;
+}
